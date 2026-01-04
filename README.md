@@ -13,3 +13,4 @@ Inicialización
    Tienda 2 = 1.098.019.600
    Tienda 3 = 1.038.375.700
 
+![0cbae998-197d-4fc8-ac13-5d12d560e624](https://github.com/user-attachments/assets/20e75202-f7ef-492a-95cc-21f59f96e87e)
